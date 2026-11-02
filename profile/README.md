@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>Intégrateur Odoo à double compétence comptable et technique</em><br>
-  <a href="https://www.ropi-it.fr">www.ropi-it.fr</a>
+  <a href="https://www.ropi-it.fr/r/wQh">www.ropi-it.fr</a>
 </p>
 
 ---
@@ -23,6 +23,6 @@
 - Des spécifications claires, des recettes validées et un accompagnement au changement
 
 ### Contact
-- Site : https://www.ropi-it.fr
+- Site : https://www.ropi-it.fr/r/wQh
 - Nous écrire : https://www.ropi-it.fr/contactus
 - Fondateur : https://github.com/rpinset
